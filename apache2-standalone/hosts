@@ -1,2 +1,2 @@
 [awsServers]
-ec2-54-69-142-58.us-west-2.compute.amazonaws.com ansible_ssh_private_key_file=/Users/ravisha/sjsu remote_user=ubuntu
+ec2-13-56-188-83.us-west-1.compute.amazonaws.com ansible_ssh_private_key_file=/Users/ravisha/sjsu/awslinux.pem remote_user=ubuntu
